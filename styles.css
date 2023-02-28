@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table{
+	border-radius:5px;
+}
+thead{
+	margin:0px;
+	background:red;
+}
